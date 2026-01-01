@@ -1,5 +1,6 @@
 import time
 
+# Atilla 
 class Yemek:
     def __init__(self, isim, fiyat, maliyet, hazirlanma_suresi):
         self.isim = isim

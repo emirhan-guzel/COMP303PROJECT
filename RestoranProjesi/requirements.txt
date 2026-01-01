@@ -21,4 +21,3 @@ six==1.17.0
 threadpoolctl==3.6.0
 ttkbootstrap==1.19.2
 tzdata==2025.2
-streamlit==1.38.0
